@@ -1,0 +1,85 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "ไก่จ๊อแช่แข็ง",
+      "amount": 1,
+      "unit": "kg",
+      "priority": 3,
+      "category": "premade"
+    },
+    {
+      "id": "23362f16-16bb-44c8-8fe5-a2cdc279ff5c",
+      "name": "กระดูกอ่อน",
+      "amount": "0.5 กิโล",
+      "category": "meat",
+      "priority": 3
+    },
+    {
+      "id": "fd8dbaf7-ca76-4b7d-b3ee-b74a8d47186b",
+      "name": "หอยแครง",
+      "amount": "3 ขีด",
+      "category": "meat",
+      "priority": 3
+    },
+    {
+      "id": "2acf3f7f-dbe1-4bef-a31d-962fef94a4bc",
+      "name": "ปีกไก่นิวออลีน",
+      "amount": "7 ขีด",
+      "category": "meat",
+      "priority": 2
+    },
+    {
+      "id": "8039955c-753a-4fe5-98f7-1c44f9bbd674",
+      "name": "ไข่",
+      "amount": "30",
+      "priority": 3,
+      "category": "meat"
+    },
+    {
+      "id": "c7b34b9d-5058-4091-99f2-3763e0af1781",
+      "name": "ไก่",
+      "amount": "1โล",
+      "priority": 1,
+      "category": "meat"
+    },
+    {
+      "id": "e010e414-06e8-43d1-a427-53cfbea9939a",
+      "name": "เป็ด",
+      "amount": "4 ขีด",
+      "priority": 1,
+      "category": "meat"
+    },
+    {
+      "id": "fd58fe7e-13f9-4a55-a74d-161899865fba",
+      "name": "กะหล่ำปลี",
+      "amount": "1 กิโล",
+      "priority": 1,
+      "category": "vegetable"
+    },
+    {
+      "id": "8aaa3440-53c3-4aa9-86e2-362cce31d262",
+      "name": "แป้งพิซซ่า",
+      "amount": "2 ชิ้น",
+      "priority": 3,
+      "category": "meat"
+    }
+  ],
+  "menu": [
+    {
+      "id": "4202676a-54a1-475c-8cc5-cb644b285c6f",
+      "name": "ปีกไก่นิวออลีน",
+      "preparation_time": "20"
+    },
+    {
+      "id": "172974fa-25e6-440d-92e7-9eff0ac25a40",
+      "name": "ต้มแซ่บซี่โครงอ่อน",
+      "preparation_time": "40"
+    },
+    {
+      "id": "2b904285-a2f7-4778-8655-8dd01975f1af",
+      "name": "พิซซ่า",
+      "preparation_time": "15"
+    }
+  ]
+}
